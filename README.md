@@ -4,5 +4,5 @@ This repository has the link to my public tableau profile. Various visualization
 Public Tableau Profile : 
 https://public.tableau.com/profile/sukhada.surendra.sheth#!/
 
-Video Link of one of the visualization which an animation viz.
+Video Link of one of the visualization which an animation viz. :
 https://youtu.be/Ls0uhCv4vwI
